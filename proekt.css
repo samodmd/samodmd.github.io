@@ -1,0 +1,83 @@
+body {
+  font-family:  "PT Sans", "Arial", sans-serif;
+
+color: black;
+background: #ADD8E6;
+
+}
+
+
+
+.header { 
+  height: 100px;
+  background: #4a87fa;
+  margin-right: 20px;
+ margin-left: 10px;
+  margin-top: 20px;
+  width:1240px
+}
+
+.zag{font-family:   "Arial", sans-serif;
+     margin-left: 100px;
+ margin-top: -90px;
+      margin-bottom: 10px; }
+
+.navigation-list{
+		margin-right: 0px;
+		margin-left: 1000px;
+		font-size: 20px;}
+
+   
+.telo   {
+background: #708080;
+   
+    margin-left: 210px;
+    margin-top: 30px;
+    height: 800px;
+	}
+ 
+.telo {width:840px;
+color: red;}
+
+.text{    font-size: 20px;
+		  line-height: 30px;
+		  color:black;
+		  margin-right: 30px;
+		  margin-left: 45px;}
+		  
+
+.napisatadmin {font-size: 24px;
+		  line-height: 40px;
+		  font-family:   "Arial", sans-serif;
+		  color:red;
+		  margin-left: 30px}		  
+
+
+.asideR {
+   background: #ff8a00 ;
+   margin-right: 10px;
+   margin-left: 1050px;
+   margin-top: -800px;
+   height: 800px;
+     width:200px; }
+	 
+.zagolovok{
+margin-left: 20px;
+ color: black;
+  font-size: 30px;}	  
+	  
+
+
+
+	  
+.asideL { 
+   background: #ff8a00 ;
+   margin-right: 1070px;
+   margin-left: 10px;
+   margin-top: -800px;
+   height: 800px;
+    width:200px;  
+}
+
+
+		  
