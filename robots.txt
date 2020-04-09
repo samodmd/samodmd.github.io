@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: samodmd.github.io/
+Sitemap: http://samodmd.github.io//sitemap.xml
