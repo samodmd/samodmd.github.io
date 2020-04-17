@@ -53,7 +53,7 @@ color: red;}
    background: #ff8a00 ;
    margin-right: 10px;
    margin-left: 1050px;
-   margin-top: -540px;
+   margin-top: -520px;
    height: 2800px;
      width:200px; }
 	 
@@ -82,9 +82,12 @@ margin-left: 20px;
 .asideLS {margin-top: -2500px;
           font-size: 20px;
 		  line-height: 40px;
-		  font-family:   "Arial", sans-serif;}
+		  font-family:   "Arial", sans-serif;
+		  margin-left: 20px;}
 		  
-
+		  
+.PN {margin-left: 45px;}
+.PN1 {margin-left:65px;}
 
 
 
